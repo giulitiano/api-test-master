@@ -16,9 +16,10 @@ const noticia = new Schema({
     organismo:{
         dependencia: String,
         usuario: String,
+        usuario2: String,
 
     }
-    //a
+    
 
 
 })
