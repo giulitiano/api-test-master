@@ -18,6 +18,7 @@ const noticia = new Schema({
         usuario: String,
 
     }
+    //a
 
 
 })
